@@ -6,7 +6,7 @@
 `include "uart_monitor.sv"
 `include "uart_scoreboard.sv"
 `include "uart_environment.sv"
-`include "uart_transceiver.sv"
+`include "Design_uart_transceiver.sv"
 
 
 
